@@ -1,0 +1,625 @@
+timestamp,mode,target_class,focus_label,focus_zone,direction,distance_m,event_type,spoken_text
+1769729118.6504033,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769729128.3498623,navigation,,,,,,ocr,ocr_none
+1769729131.4743085,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769729138.3794923,navigation,,,,,,ocr,ocr_none
+1769729148.4426646,navigation,,,,,,ocr,ocr_none
+1769729149.0177808,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729158.5178533,navigation,,,,,,ocr,ocr_none
+1769729168.5270934,navigation,,,,,,ocr,ocr_none
+1769729173.8695848,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769729178.9376826,navigation,,,,,,ocr,ocr_none
+1769729179.508879,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729188.9473977,navigation,,,,,,ocr,Kumall
+1769729191.8914518,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769729196.4732943,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729200.197215,navigation,,,,,,ocr,ocr_none
+1769729210.218512,navigation,,,,,,ocr,ocr_none
+1769729213.309846,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769729220.2342331,navigation,,,,,,ocr,ocr_none
+1769729223.7105036,navigation,,person,near,right,0.5,obstacle_near,"person right, very close."
+1769729227.467292,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769729231.9712024,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729231.9712024,navigation,,,,,,ocr,ocr_none
+1769729236.8888674,navigation,,,,,,path_clear,Path ahead seems clear.
+1769729768.7459958,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769729778.4311638,navigation,,,,,,ocr,ocr_none
+1769729897.6359344,navigation,,person,near,right,0.5,first_obstacle,"person right, within one meter."
+1769729905.485717,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769729909.8854299,navigation,,,,,,ocr,ocr_none
+1769729910.5028813,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729914.0854204,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769729914.0854204,navigation,,,,,,vlm_caption,Scene summary: a man taking a picture of himself
+1769729925.18595,navigation,,,,,,path_clear,Path ahead seems clear.
+1769729925.18595,navigation,,,,,,ocr,ocr_none
+1769729929.0054061,navigation,,person,mid,right,1.0,first_obstacle,"person right, about 1.0 meters."
+1769729933.590947,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769729939.3168778,navigation,,,,,,ocr,ocr_none
+1769729948.6412365,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769729954.8095083,navigation,,,,,,ocr,ocr_none
+1769729957.5566838,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729963.6794517,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and a white tank top
+1769729970.652853,navigation,,,,,,ocr,ocr_none
+1769729978.702728,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and a white tank top
+1769729985.448822,navigation,,,,,,ocr,ocr_none
+1769729986.0041983,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769729990.677244,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769729994.3626776,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top holding a cell phone
+1769730001.4448555,navigation,,,,,,ocr,ocr_none
+1769730002.0111713,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769730009.4186745,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top brushing his teeth
+1769730016.708422,navigation,,,,,,ocr,ocr_none
+1769730022.9938576,navigation,,person,near,left,0.5,obstacle_near,"person left, very close."
+1769730027.0100543,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769730027.0100543,navigation,,,,,,ocr,ocr_none
+1769730027.0100543,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769730037.5751355,navigation,,,,,,ocr,ocr_none
+1769730038.1225884,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769730042.0220778,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top drinking from a pink bottle
+1769730050.1967297,navigation,,,,,,ocr,ocr_none
+1769730050.7522216,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769730055.5475278,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769730059.2189977,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt
+1769730064.7132058,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769730064.7132058,navigation,,,,,,ocr,ocr_none
+1769730070.3745017,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769730074.2309804,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769730080.0033472,navigation,,,,,,ocr,ocr_none
+1769730089.2425685,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting on a bed
+1769730096.6180754,navigation,,,,,,ocr,ocr_none
+1769730104.3015978,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769730110.0710359,navigation,,,,,,ocr,ocr_none
+1769730119.3105044,navigation,,,,,,vlm_caption,Scene summary: a man holding a cell phone in his hand
+1769730126.1358702,navigation,,,,,,ocr,Doodlel consearch? Sonchr MUrd INana Ehrchure S6xt Idctg Awopore Dloltel Sloncturs 0a eu4et
+1769730139.5510116,navigation,,,,,,path_clear,Path ahead seems clear.
+1769730139.5510116,navigation,,,,,,ocr,ocr_none
+1769730139.5510116,navigation,,,,,,vlm_caption,Scene summary: a man holding a cell phone in his hand
+1769730149.7439818,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769730149.7439818,navigation,,,,,,ocr,ocr_none
+1769730154.5943236,navigation,,,,,,vlm_caption,Scene summary: a hand holding a cell phone with a picture on the screen
+1769730162.3474867,navigation,,,,,,ocr,Kunal
+1769730164.73695,navigation,,person,mid,left,1.0,obstacle_closer,"person left, about 1.0 meters."
+1769730169.3390484,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769730173.2940838,navigation,,,,,,ocr,ocr_none
+1769730173.2940838,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769730183.3437643,navigation,,,,,,ocr,ocr_none
+1769730188.3376174,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769730194.56513,navigation,,,,,,ocr,ocr_none
+1769730203.3577132,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769730209.210933,navigation,,,,,,ocr,ocr_none
+1769730218.4036908,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top and glasses
+1769730224.9822652,navigation,,,,,,ocr,ocr_none
+1769730233.43934,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top is brushing his teeth
+1769730241.3257852,navigation,,,,,,ocr,ocr_none
+1769732869.662505,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769732874.3744838,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769732879.1646335,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769732882.9784753,navigation,,,,,,ocr,ocr_none
+1769732884.2838418,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting on a bed
+1769732893.0493433,navigation,,,,,,ocr,ocr_none
+1769732899.363829,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting on a bed
+1769732906.4603434,navigation,,,,,,ocr,ocr_none
+1769732911.9004378,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769732916.3456657,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769732916.3456657,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769732925.7279816,navigation,,,,,,ocr,ocr_none
+1769732929.5171168,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769732934.163548,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting on a bed
+1769732940.9515538,navigation,,,,,,ocr,ocr_none
+1769732949.2121782,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769732955.3613195,navigation,,,,,,ocr,ocr_none
+1769732959.108874,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769732963.0324073,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769732967.3377938,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769732967.3377938,navigation,,,,,,ocr,Kundl
+1769732967.3377938,navigation,,,,,,vlm_caption,Scene summary: a man holding a cell phone in his hand
+1769732979.6380243,navigation,,,,,,ocr,Kunal
+1769732982.4117453,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting in front of a laptop
+1769732990.0710511,navigation,,,,,,ocr,ocr_none
+1769732997.4205608,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top is brushing his teeth
+1769733005.0072129,navigation,,,,,,ocr,ocr_none
+1769733012.4384525,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769733018.4544706,navigation,,,,,,ocr,ocr_none
+1769733020.020561,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733024.6891944,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769733028.1806507,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting on a bed
+1769733035.2428951,navigation,,,,,,ocr,ocr_none
+1769733036.4405,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733040.6123967,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769733044.2274287,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733049.4373422,navigation,,,,,,ocr,ocr_none
+1769733059.2431247,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733064.792026,navigation,,,,,,ocr,ocr_none
+1769733071.3199806,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733075.7942698,navigation,,,,,,ocr,ocr_none
+1769733075.7942698,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733081.7473023,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769733085.8175507,navigation,,,,,,ocr,ocr_none
+1769733090.8321369,navigation,,,,,,vlm_caption,Scene summary: a man wearing a white tank top
+1769733096.7566578,navigation,,,,,,ocr,ocr_none
+1769733098.103963,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769733102.3507533,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769733105.8869772,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733111.3107078,navigation,,,,,,ocr,ocr_none
+1769733118.019522,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733122.3734457,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769733122.3734457,navigation,,,,,,ocr,ocr_none
+1769733122.3734457,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733132.4128408,navigation,,,,,,ocr,ocr_none
+1769733137.4469078,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and a white tank top
+1769733143.9742384,navigation,,,,,,ocr,ocr_none
+1769733148.33335,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733152.7930806,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top sitting on a bed
+1769733159.7422388,navigation,,,,,,ocr,ocr_none
+1769733166.335815,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769733170.158638,navigation,,,,,,ocr,ocr_none
+1769733170.158638,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733180.2196877,navigation,,,,,,ocr,ocr_none
+1769733185.178544,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733190.6490843,navigation,,,,,,ocr,ocr_none
+1769733198.4989467,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733203.4503703,navigation,,,,,,ocr,ocr_none
+1769733203.4503703,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top
+1769733209.5259845,navigation,,person,near,right,0.5,obstacle_near,"person right, very close."
+1769733213.5339406,navigation,,,,,,ocr,ocr_none
+1769733257.2471027,navigation,,person,near,right,0.5,first_obstacle,"person right, within one meter."
+1769733261.249451,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769733266.246725,navigation,,person,near,right,0.5,obstacle_near,"person right, very close."
+1769733269.9550672,navigation,,,,,,ocr,ocr_none
+1769733272.3797195,navigation,,,,,,vlm_caption,Scene summary: a man in a white tank top is taking a picture of himself
+1769733463.4260302,navigation,,,,,,ocr,ocr_none
+1769733468.3625371,navigation,,,,,,vlm_caption,Scene summary: a black and white photo of a man in a suit and tie
+1769733477.3273597,navigation,,,,,,ocr,ocr_none
+1769733484.2397654,navigation,,,,,,vlm_caption,Scene summary: a black and white photo of a man in a suit and tie
+1769733493.0670762,navigation,,,,,,ocr,ocr_none
+1769768184.3547213,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769768194.1816037,navigation,,,,,,ocr,ocr_none
+1769768197.6938179,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768202.1264007,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt in a bathroom
+1769768208.9060667,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768208.9060667,navigation,,,,,,ocr,ocr_none
+1769768217.1802704,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is standing in a room
+1769768223.8212383,navigation,,,,,,ocr,ocr_none
+1769768224.388813,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768228.6400115,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768364.7753367,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769768374.315191,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768378.7277868,navigation,,,,,,ocr,ocr_none
+1769768379.4492478,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768379.4492478,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is sitting on a bed
+1769768389.3157892,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768389.3157892,navigation,,,,,,ocr,ocr_none
+1769768394.651549,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768394.651549,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on in a bathroom
+1769768404.095691,navigation,,,,,,ocr,ocr_none
+1769768409.659643,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on in a bathroom
+1769768415.9984713,navigation,,,,,,ocr,ocr_none
+1769768424.7066252,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt sitting on a bed
+1769768430.9387593,navigation,,,,,,ocr,ocr_none
+1769768439.7924182,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on in a bathroom
+1769768446.0581567,navigation,,,,,,ocr,ocr_none
+1769768454.8044338,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt sitting on a bed
+1769768461.153701,navigation,,,,,,ocr,ocr_none
+1769768469.8476474,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on in a bathroom
+1769768476.2012541,navigation,,,,,,ocr,ocr_none
+1769768478.250016,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768482.9011276,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768486.2073169,navigation,,,,,,ocr,ocr_none
+1769768486.2073169,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt sitting on a bed
+1769768496.260434,navigation,,,,,,ocr,ocr_none
+1769768496.842723,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768501.2202353,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768501.2202353,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting on a bed
+1769768510.0708845,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768510.0708845,navigation,,,,,,ocr,ocr_none
+1769768514.7990294,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769768518.0016859,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769768518.0016859,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt sitting on a bed
+1769768528.2415009,navigation,,,,,,ocr,ocr_none
+1769769070.86427,navigation,,person,mid,ahead,1.0,first_obstacle,"person ahead, about 1.0 meters."
+1769769075.6031022,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769078.7803552,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769769082.9786997,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769082.9786997,navigation,,,,,,ocr,ocr_none
+1769769087.5272112,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on sitting on a bed
+1769769094.0702558,navigation,,,,,,ocr,ocr_none
+1769769096.0974755,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769769101.2205405,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769104.5104146,navigation,,,,,,ocr,ocr_none
+1769769104.5104146,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt sitting on a bed
+1769769112.7794242,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769769117.1143525,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769117.1143525,navigation,,,,,,ocr,ocr_none
+1769769121.2582736,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on in a bathroom
+1769769127.487068,navigation,,,,,,ocr,ocr_none
+1769769136.283673,navigation,,,,,,vlm_caption,Scene summary: a man holding a cell phone in his hand
+1769769142.766287,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769769142.766287,navigation,,,,,,ocr,ocr_none
+1769769151.2932844,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt talking on a cell phone
+1769769157.8358462,navigation,,,,,,ocr,ocr_none
+1769769158.413156,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769166.3008716,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is sitting on a bed
+1769769172.687633,navigation,,,,,,ocr,ocr_none
+1769769181.337483,navigation,,,,,,vlm_caption,Scene summary: a shirtless man in a bathroom with no shirt on
+1769769190.7828562,navigation,,,,,,ocr,ocr_none
+1769769196.4293075,navigation,,,,,,vlm_caption,Scene summary: a shirtless man with glasses and a mustache
+1769769203.9029317,navigation,,,,,,ocr,ocr_none
+1769769211.4324696,navigation,,,,,,vlm_caption,Scene summary: a shirtless man with glasses and no shirt on
+1769769218.2872663,navigation,,,,,,ocr,ocr_none
+1769769226.4737525,navigation,,,,,,vlm_caption,Scene summary: a shirtless man with glasses and no shirt
+1769769232.976623,navigation,,,,,,ocr,ocr_none
+1769769241.5659971,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is standing in a room
+1769769248.2251573,navigation,,,,,,ocr,MRITA
+1769769251.9308038,navigation,,person,mid,left,1.0,obstacle_closer,"person left, about 1.0 meters."
+1769769256.616003,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769256.616003,navigation,,,,,,vlm_caption,Scene summary: a man is holding up a id card
+1769769267.8078222,navigation,,,,,,ocr,AMRITA VISHWA VIDYAPEETHAM AAfmlna AeE 04n 1445 1tnataa Kunal Debnath CB SC PZAIE25037 Toch AE 2025-2027 Volld Upia 710-0u-2027 Hos 6 1
+1769769295.4329476,navigation,,,,,,ocr,ocr_none
+1769769295.4329476,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in a bathtub
+1769769303.8864841,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769769308.2316513,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769308.2316513,navigation,,,,,,ocr,"AMRITA VISHWA VIDYAPEETHAM Ktna 641 112,Fh04z 288 500  AmnitanJquPO Kunal Debnath CB SC PZAIE25037 MTech AlE 2025-2027 and Uela J0-08-2027 1 HOs 1 ("
+1769769343.040701,navigation,,,,,,ocr,ocr_none
+1769769343.040701,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is brushing his hair
+1769769353.0998085,navigation,,,,,,ocr,ocr_none
+1769769358.0463033,navigation,,,,,,vlm_caption,Scene summary: a man in a yellow shirt is holding a cell phone
+1769769364.9429038,navigation,,,,,,ocr,ocr_none
+1769769367.9504333,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769769373.0907848,navigation,,,,,,vlm_caption,Scene summary: a man in a bathroom with a towel on his head
+1769769379.83717,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769379.83717,navigation,,,,,,ocr,ocr_none
+1769769388.1735163,navigation,,,,,,vlm_caption,Scene summary: a shirtless man in a room with an orange ribbon around his neck
+1769769396.2617843,navigation,,,,,,ocr,ocr_none
+1769769403.1931484,navigation,,,,,,vlm_caption,Scene summary: a man in a red shirt and glasses sitting on a bed
+1769769410.2652926,navigation,,,,,,ocr,ocr_none
+1769769418.217259,navigation,,,,,,vlm_caption,Scene summary: a man in a red shirt and glasses sitting on a bed
+1769769425.9227705,navigation,,,,,,ocr,ocr_none
+1769769426.4909458,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769769434.357329,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769769434.357329,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt is posing for the camera
+1769769445.1881652,navigation,,,,,,ocr,ocr_none
+1769769449.4506245,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt and no shirt is posing for the camera
+1769769457.2466958,navigation,,,,,,ocr,ocr_none
+1769769464.4575615,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt is posing for the camera
+1769769472.5565639,navigation,,,,,,ocr,ocr_none
+1769769479.4850144,navigation,,,,,,vlm_caption,Scene summary: a man in a bikini drinking from a pink bottle
+1769769486.4385457,navigation,,,,,,ocr,ocr_none
+1769769494.4923973,navigation,,,,,,vlm_caption,Scene summary: a man in a pink shirt is playing with a toy
+1769769501.487704,navigation,,,,,,ocr,ocr_none
+1769769509.5067754,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt is standing in a room
+1769769516.8992496,navigation,,,,,,ocr,ocr_none
+1769769520.9713657,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769523.7750156,navigation,,person,mid,left,1.0,first_obstacle,"person left, about 1.0 meters."
+1769769528.0680554,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769528.0680554,navigation,,,,,,ocr,ocr_none
+1769769528.0680554,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a yellow mosquito net
+1769769537.7573273,navigation,,person,far,left,2.0,first_obstacle,"person left, ahead."
+1769769540.685195,navigation,,,,,,ocr,ocr_none
+1769769543.1062624,navigation,,,,,,vlm_caption,Scene summary: a man standing in front of a bed in a room
+1769769549.8498259,navigation,,person,mid,left,1.5,obstacle_closer,"person left, about 1.5 meters."
+1769769554.4524202,navigation,,,,,,ocr,ocr_none
+1769769558.1123478,navigation,,,,,,vlm_caption,Scene summary: a naked man standing in front of a bed
+1769769565.4013,navigation,,,,,,ocr,ocr_none
+1769769567.7990177,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769573.1957252,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a net hanging from the ceiling
+1769769580.3514893,navigation,,,,,,ocr,ocr_none
+1769769584.7659845,navigation,,person,far,left,4.0,first_obstacle,"person left, ahead."
+1769769587.7711797,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769590.605572,navigation,,,,,,ocr,ocr_none
+1769769590.605572,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a yellow net
+1769769600.6400743,navigation,,,,,,ocr,ocr_none
+1769769605.6610985,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a yellow mosquito net
+1769769612.3175697,navigation,,,,,,ocr,ocr_none
+1769769620.6774032,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a mosquito net
+1769769627.086575,navigation,,person,near,left,0.5,first_obstacle,"person left, within one meter."
+1769769627.086575,navigation,,,,,,ocr,ocr_none
+1769769635.7057889,navigation,,person,mid,left,1.0,obstacle_closer,"person left, about 1.0 meters."
+1769769635.7057889,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt standing in front of a bed
+1769769646.8498456,navigation,,person,near,left,0.5,obstacle_near,"person left, very close."
+1769769646.8498456,navigation,,,,,,ocr,ocr_none
+1769769650.8969638,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt standing in front of a bed
+1769769657.7422166,navigation,,,,,,ocr,ocr_none
+1769769665.9004478,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt standing in a room
+1769769672.3647075,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769672.3647075,navigation,,,,,,ocr,ocr_none
+1769769680.9304826,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a yellow curtain
+1769769687.0061333,navigation,,person,near,left,0.5,first_obstacle,"person left, within one meter."
+1769769687.0061333,navigation,,,,,,ocr,ocr_none
+1769769690.8426337,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769693.4206305,navigation,,person,mid,left,1.0,first_obstacle,"person left, about 1.0 meters."
+1769769697.5346766,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769697.5346766,navigation,,,,,,ocr,ocr_none
+1769769697.5346766,navigation,,,,,,vlm_caption,Scene summary: a room with a bed and a window in it
+1769769707.6265965,navigation,,,,,,ocr,ocr_none
+1769769712.5348852,navigation,,,,,,vlm_caption,Scene summary: an empty room with a white wall and a wooden floor
+1769769719.2898533,navigation,,,,,,ocr,ocr_none
+1769769724.1107144,navigation,,person,mid,left,1.0,first_obstacle,"person left, about 1.0 meters."
+1769769728.5587106,navigation,,person,near,left,0.5,obstacle_near,"person left, very close."
+1769769728.5587106,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is standing in a room
+1769769738.657923,navigation,,,,,,ocr,ocr_none
+1769769743.6487088,navigation,,,,,,vlm_caption,Scene summary: a man with glasses is standing in the bathroom
+1769769750.5915859,navigation,,,,,,ocr,ocr_none
+1769769758.6921225,navigation,,,,,,vlm_caption,Scene summary: a close up of a person ' s butt
+1769769765.1748745,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769765.1748745,navigation,,,,,,ocr,ocr_none
+1769769768.8372445,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769769772.4204788,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769775.2480233,navigation,,,,,,ocr,ocr_none
+1769769775.2480233,navigation,,,,,,vlm_caption,Scene summary: a window in a room with a curtain on the window
+1769769785.2750223,navigation,,,,,,ocr,ocr_none
+1769769790.257583,navigation,,,,,,vlm_caption,Scene summary: a close up of a white wall with a metal pole
+1769769797.5120478,navigation,,,,,,ocr,ocr_none
+1769769801.6479561,navigation,,person,far,left,3.0,first_obstacle,"person left, ahead."
+1769769805.2944865,navigation,,,,,,vlm_caption,Scene summary: a man looking out a window at the view
+1769769811.6210532,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769811.6210532,navigation,,,,,,ocr,ocr_none
+1769769820.307688,navigation,,,,,,vlm_caption,Scene summary: a window with a view of the trees outside
+1769769827.1001873,navigation,,person,mid,left,1.5,first_obstacle,"person left, about 1.5 meters."
+1769769827.1001873,navigation,,,,,,ocr,ocr_none
+1769769832.2694962,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769834.961636,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769769838.4788222,navigation,,,,,,ocr,ocr_none
+1769769838.4788222,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt standing in front of a mirror
+1769769846.2651515,navigation,,,,,,path_clear,Path ahead seems clear.
+1769769849.3653455,navigation,,person,near,right,0.5,first_obstacle,"person right, within one meter."
+1769769849.3653455,navigation,,,,,,ocr,ocr_none
+1769769853.5144525,navigation,,,,,,vlm_caption,Scene summary: a shirtless man with glasses and no shirt on
+1769769860.6368968,navigation,,,,,,ocr,ocr_none
+1769792798.7744863,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769792807.9673557,navigation,,,,,,ocr,ocr_none
+1769792812.9503706,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is standing in front of a shower
+1769792823.482034,navigation,,,,,,ocr,ocr_none
+1769792827.981891,navigation,,,,,,vlm_caption,Scene summary: a shirtless man drinking a glass of wine
+1769792834.9585028,navigation,,,,,,ocr,ocr_none
+1769792842.9898417,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in a bathtub
+1769792852.6239674,navigation,,,,,,ocr,ocr_none
+1769792858.0003955,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt on sitting in a bathroom
+1769792864.6981864,navigation,,,,,,ocr,ocr_none
+1769792873.0292573,navigation,,,,,,vlm_caption,Scene summary: a shirtless man drinking a cup of coffee
+1769792880.096302,navigation,,,,,,ocr,ocr_none
+1769792888.0363336,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt sitting on a bed
+1769792896.039933,navigation,,,,,,ocr,ocr_none
+1769792903.0616548,navigation,,,,,,vlm_caption,Scene summary: a man with glasses sitting on a bed
+1769792910.7307253,navigation,,,,,,ocr,ocr_none
+1769792918.1239016,navigation,,,,,,vlm_caption,Scene summary: a man with his finger in the middle of his mouth
+1769792926.079088,navigation,,,,,,ocr,ocr_none
+1769792933.1674323,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt
+1769792943.5645213,navigation,,,,,,ocr,ocr_none
+1769792948.174241,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt is looking at the camera
+1769792956.0980012,navigation,,,,,,ocr,ocr_none
+1769793855.7358348,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769793864.9003935,navigation,,,,,,ocr,ocr_none
+1769793869.8898838,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in front of a laptop
+1769793876.9646554,navigation,,,,,,ocr,ocr_none
+1769793884.9695077,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in a bathroom
+1769793891.2506385,navigation,,,,,,ocr,ocr_none
+1769793900.0137312,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in front of a computer
+1769793908.9226763,navigation,,,,,,ocr,ocr_none
+1769793915.0975573,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in a bathroom
+1769793921.99967,navigation,,,,,,ocr,ocr_none
+1769793930.1525235,navigation,,,,,,vlm_caption,Scene summary: a man sitting in a bed with a towel on his head
+1769793937.6433587,navigation,,,,,,ocr,ocr_none
+1769793945.1578026,navigation,,,,,,vlm_caption,Scene summary: a man in glasses is sitting on a bed
+1769793951.5439005,navigation,,,,,,ocr,ocr_none
+1769793955.856829,navigation,,,,,,no_detection_heuristic,Path ahead seems clear.
+1769794202.9330537,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769794212.7830067,navigation,,,,,,ocr,ocr_none
+1769794217.7632103,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt in a room
+1769794225.526774,navigation,,,,,,ocr,ocr_none
+1769794232.7831028,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is sitting on a bed
+1769794240.6343024,navigation,,,,,,ocr,ocr_none
+1769794247.7997937,navigation,,,,,,vlm_caption,Scene summary: a shirtless man is sitting in a room
+1769794255.7824202,navigation,,,,,,ocr,ocr_none
+1769794262.8534627,navigation,,,,,,vlm_caption,Scene summary: a man with glasses sitting in a bathroom
+1769794270.1888106,navigation,,,,,,ocr,ocr_none
+1769794277.8706489,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in front of a computer
+1769794285.5146813,navigation,,,,,,ocr,ocr_none
+1769794790.777085,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769794796.5390935,navigation,,,,,,ocr,ocr_none
+1769794801.2076037,navigation,,,,,,vlm_caption,Scene summary: a shirtless man with no shirt on in a bathroom
+1769794810.3612287,navigation,,,,,,ocr,ocr_none
+1769794816.2602665,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in a bathroom
+1769794823.0070417,navigation,,,,,,ocr,ocr_none
+1769794831.309833,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and no shirt is sitting on a bed
+1769794839.1373053,navigation,,,,,,ocr,ocr_none
+1769794846.3587554,navigation,,,,,,vlm_caption,Scene summary: a shirtless man sitting in a bed
+1769794852.7254157,navigation,,,,,,ocr,ocr_none
+1769794861.3779342,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt is sitting on a bed
+1769794868.2042003,navigation,,,,,,ocr,ocr_none
+1769795052.0877397,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769795061.1309416,navigation,,,,,,ocr,ocr_none
+1769795066.1523612,navigation,,,,,,vlm_caption,Scene summary: a shirtless man with glasses and no shirt
+1769795076.987837,navigation,,,,,,ocr,ocr_none
+1769836517.9491525,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769836526.7652898,navigation,,,,,,ocr,ocr_none
+1769836531.731526,navigation,,,,,,vlm_caption,Scene summary: a man with glasses sitting at a table
+1769836538.3104033,navigation,,,,,,ocr,ocr_none
+1769836546.765191,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a laptop
+1769836553.2569134,navigation,,,,,,ocr,ocr_none
+1769836561.8471696,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt sitting in front of a laptop
+1769836569.9432888,navigation,,,,,,ocr,ocr_none
+1769836576.947673,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt talking on a cell
+1769836583.9741497,navigation,,,,,,ocr,ocr_none
+1769836839.0130908,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769836848.0166311,navigation,,,,,,ocr,ocr_none
+1769837015.117599,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769837024.2137015,navigation,,,,,,ocr,AMRITA VISHWA VIDYAPEETHAM mugarPO Connkilen ATTIZFn0l 764 500 Kunal Debnath CB SC PZAIE25037 M Toch AlE 2025-2027 Uplo   30-06-2027 Hos
+1769837051.5827138,navigation,,,,,,ocr,ocr_none
+1769837051.5827138,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a plate of food
+1769837059.6524744,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769837064.0771043,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769837064.0771043,navigation,,,,,,ocr,ocr_none
+1769837068.201429,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table using a laptop
+1769837075.0273788,navigation,,,,,,ocr,ocr_none
+1769837083.220555,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a plate of food in front of him
+1769837090.9481487,navigation,,,,,,ocr,ocr_none
+1769837098.2754226,navigation,,,,,,vlm_caption,Scene summary: a man holding up a cell phone with a heart on it
+1769837105.268358,navigation,,,,,,ocr,Kunal
+1769837113.306145,navigation,,,,,,vlm_caption,Scene summary: a man with glasses is looking at a computer screen
+1769837121.3171296,navigation,,,,,,ocr,Kunal
+1769837128.36962,navigation,,,,,,vlm_caption,Scene summary: a man wearing a shirt
+1769837133.6965184,navigation,,,,,,ocr,ocr_none
+1769838059.2509413,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769838069.094753,navigation,,,,,,ocr,ocr_none
+1769838074.1396751,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and a blue and white shirt
+1769838081.3110092,navigation,,,,,,ocr,ocr_none
+1769838088.937953,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769838092.538713,navigation,,,,,,ocr,AMRITA VISHWA VIDYAPEETHAM ccd Gd Weentle Kunal Debnalh BC Faie?6037 0T17t ansi 6
+1769838092.538713,navigation,,,,,,vlm_caption,Scene summary: a man holding a id card in his hand
+1769838114.2665668,navigation,,,,,,ocr,ocr_none
+1769838114.2665668,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and looking at the camera
+1769838124.3272128,navigation,,,,,,ocr,ocr_none
+1769838129.3321576,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838134.3784857,navigation,,,,,,ocr,ocr_none
+1769838144.3945026,navigation,,,,,,ocr,ocr_none
+1769838144.3945026,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and looking at the camera
+1769838154.4722989,navigation,,,,,,ocr,ocr_none
+1769838159.4466925,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and a blue shirt
+1769838165.1353436,navigation,,,,,,ocr,ocr_none
+1769838174.5356426,navigation,,,,,,vlm_caption,Scene summary: a man looking at a computer screen with the word kn on it
+1769838182.6051316,navigation,,,,,,ocr,Kunal
+1769838189.5485387,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838194.7525084,navigation,,,,,,ocr,ocr_none
+1769838204.6089702,navigation,,,,,,vlm_caption,Scene summary: a man with glasses sitting at a table
+1769838210.8269289,navigation,,,,,,ocr,ocr_none
+1769838219.6917238,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769838225.867882,navigation,,,,,,ocr,ocr_none
+1769838234.71169,navigation,,,,,,vlm_caption,Scene summary: a man holding up a plastic bottle with a barcode on it
+1769838242.734948,navigation,,,,,,ocr,2nx-202 
+1769838249.8014934,navigation,,,,,,vlm_caption,Scene summary: a man holding up a plastic card with a barcode on it
+1769838257.3294158,navigation,,,,,,ocr,ocr_none
+1769838264.8094528,navigation,,,,,,vlm_caption,Scene summary: a man is holding a barcode in his hand
+1769838271.5646515,navigation,,,,,,ocr,ocr_none
+1769838279.853882,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a plate of food in front of him
+1769838287.7905805,navigation,,,,,,ocr,ocr_none
+1769838294.9355466,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a plate of food in front of him
+1769838302.8018544,navigation,,,,,,ocr,ocr_none
+1769838309.9453394,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838315.1649148,navigation,,,,,,ocr,ocr_none
+1769838325.0332887,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses while talking on a cell
+1769838331.8977923,navigation,,,,,,ocr,ocr_none
+1769838340.1117425,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769838345.671264,navigation,,,,,,ocr,ocr_none
+1769838355.1258419,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769838360.5094194,navigation,,,,,,ocr,ocr_none
+1769838370.2151625,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769838376.1430151,navigation,,,,,,ocr,ocr_none
+1769838385.271376,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and a blue and white shirt
+1769838392.2634585,navigation,,,,,,ocr,ocr_none
+1769838400.3221974,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and a blue shirt
+1769838406.2707741,navigation,,,,,,ocr,ocr_none
+1769838415.4137385,navigation,,,,,,vlm_caption,Scene summary: a man with glasses sitting at a table
+1769838421.4598207,navigation,,,,,,ocr,ocr_none
+1769838430.504771,navigation,,,,,,vlm_caption,Scene summary: a man with glasses and a shirt sitting at a table
+1769838443.869855,navigation,,,,,,ocr,ocr_none
+1769838445.5446951,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838453.9145746,navigation,,,,,,ocr,ocr_none
+1769838460.5917168,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a plate of food
+1769838761.3403752,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769838771.0725877,navigation,,,,,,ocr,ocr_none
+1769838776.0242198,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769838782.020561,navigation,,,,,,ocr,ocr_none
+1769838791.0310524,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838796.5968187,navigation,,,,,,ocr,ocr_none
+1769838806.046672,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838811.0245948,navigation,,,,,,ocr,ocr_none
+1769838821.0809407,navigation,,,,,,ocr,ocr_none
+1769838821.0809407,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses
+1769838831.150188,navigation,,,,,,ocr,ocr_none
+1769838836.1516843,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769838841.884796,navigation,,,,,,ocr,ocr_none
+1769838851.1755238,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and a blue shirt
+1769838857.142026,navigation,,,,,,ocr,ocr_none
+1769838866.2291384,navigation,,,,,,vlm_caption,Scene summary: a man wearing glasses and looking at the camera
+1769839332.8842678,navigation,,,,,,ocr,0
+1769839337.7932572,navigation,,,,,,vlm_caption,Scene summary: a black and white photo of the letter c
+1769839345.2010388,navigation,,,,,,ocr,C
+1769840459.747385,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769840468.864677,navigation,,,,,,ocr,ocr_none
+1769840470.4286807,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769840475.0171835,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769840475.0171835,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769840484.678214,navigation,,,,,,ocr,ocr_none
+1769840490.0491788,navigation,,,,,,vlm_caption,Scene summary: a man taking a picture of himself
+1769840496.8071067,navigation,,,,,,ocr,ocr_none
+1769840505.0899107,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769840511.2041621,navigation,,,,,,ocr,ocr_none
+1769840512.408913,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769840517.0962265,navigation,,person,mid,right,1.5,obstacle_closer,"person right, about 1.5 meters."
+1769840522.32975,navigation,,,,,,ocr,AMRITA VISHWVA MIDYAPEETHAA Hmntttaninarno
+1769840522.32975,navigation,,,,,,vlm_caption,Scene summary: a person holding up a card with a picture of a man
+1769840541.2485936,navigation,,person,near,right,0.5,obstacle_near,"person right, very close."
+1769840541.2485936,navigation,,,,,,ocr,AMRIIA VIDYAPEETHAM Inkanegu /a Conbstor 61 [1F4012204 Sic Kunal Debnath CB SC PZAIE25037 2025-2027 Upla J0-016-2027 HOS
+1769840541.2485936,navigation,,,,,,vlm_caption,Scene summary: a person holding a id card in their hand
+1769840580.6565762,navigation,,,,,,ocr,ocr_none
+1769840580.6565762,navigation,,,,,,vlm_caption,Scene summary: a man taking a picture of himself in a classroom
+1769840590.7491543,navigation,,,,,,ocr,ocr_none
+1769840595.6676903,navigation,,,,,,vlm_caption,Scene summary: a man standing in a classroom with a cell in his hand
+1769840603.541947,navigation,,,,,,ocr,ocr_none
+1769840604.9964867,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769840610.7403996,navigation,,,,,,vlm_caption,Scene summary: a man taking a picture of himself in a classroom
+1769840618.2408094,navigation,,,,,,ocr,ocr_none
+1769840619.4969978,navigation,,dining table,mid,left,1.5,obstacle_changed,"Now dining table left, about 1.5 meters."
+1769840624.8683896,navigation,,person,near,right,0.5,obstacle_changed,"Now person right, within one meter."
+1769840628.9480882,navigation,,dining table,mid,left,1.5,obstacle_changed,"Now dining table left, about 1.5 meters."
+1769840628.9480882,navigation,,,,,,ocr,ocr_none
+1769840628.9480882,navigation,,,,,,vlm_caption,Scene summary: an empty classroom with blue chairs and white walls
+1769840646.0185368,navigation,,person,near,right,0.5,obstacle_changed,"Now person right, within one meter."
+1769840646.0185368,navigation,,,,,,ocr,ocr_none
+1769841094.0603304,navigation,,person,mid,right,1.0,first_obstacle,"person right, about 1.0 meters."
+1769841099.989781,navigation,,person,near,right,0.5,obstacle_near,"person right, very close."
+1769841103.5516958,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769841103.5516958,navigation,,,,,,ocr,ocr_none
+1769841108.4062104,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a desk in front of a computer
+1769841115.5490708,navigation,,,,,,ocr,ocr_none
+1769841123.1301496,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769841126.8383813,navigation,,,,,,ocr,ocr_none
+1769841126.8383813,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a desk in front of a computer
+1769841136.8954997,navigation,,,,,,ocr,ocr_none
+1769841139.5443666,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769841144.338011,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769841144.338011,navigation,,,,,,vlm_caption,Scene summary: a man taking a picture of himself on his phone
+1769841154.9540515,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769841154.9540515,navigation,,,,,,ocr,ocr_none
+1769841159.7433007,navigation,,tv,mid,ahead,1.0,obstacle_changed,"Now tv ahead, about 1.0 meters."
+1769841159.7433007,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a desk in front of a computer
+1769841171.136771,navigation,,,,,,path_clear,Path ahead seems clear.
+1769841171.136771,navigation,,,,,,ocr,Kunal
+1769841176.2055495,navigation,,person,mid,right,1.0,first_obstacle,"person right, about 1.0 meters."
+1769841176.2055495,navigation,,,,,,vlm_caption,Scene summary: a man sitting in front of a large screen
+1769841187.7160604,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769841187.7160604,navigation,,,,,,ocr,DAMRITA
+1769841194.592316,navigation,,,,,,vlm_caption,Scene summary: a man holding up a card with a picture of him
+1769841201.5500364,navigation,,person,mid,ahead,1.0,obstacle_closer,"person ahead, about 1.0 meters."
+1769841201.5500364,navigation,,,,,,ocr,ocr_none
+1769841206.4430556,navigation,,book,mid,ahead,1.0,obstacle_changed,"Now book ahead, about 1.0 meters."
+1769841210.811024,navigation,,person,far,ahead,2.0,obstacle_changed,"person ahead, ahead."
+1769841210.811024,navigation,,,,,,vlm_caption,Scene summary: a person holding up a card with a picture on it
+1769841220.8924987,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769841220.8924987,navigation,,,,,,ocr,AMRITA KTDTYA PEETH Kunal Debnath Ca SC PZAIE25O} / Tuch Ale 4*40 a J(m1 /62 ' Valn/ |upto t0 '
+1769841242.9407828,navigation,,,,,,ocr,ocr_none
+1769841242.9407828,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a desk in front of a computer
+1769841251.8171258,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769841255.113935,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769841255.113935,navigation,,,,,,ocr,ocr_none
+1769841259.9070163,navigation,,,,,,vlm_caption,Scene summary: a man in a black shirt sitting at a desk
+1769841266.4826207,navigation,,,,,,ocr,Nerton
+1769841403.5035264,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1769841413.2519064,navigation,,,,,,ocr,ocr_none
+1769841418.2316027,navigation,,,,,,vlm_caption,Scene summary: a man in a blue and white shirt
+1769841424.5168161,navigation,,,,,,ocr,ocr_none
+1769841433.2645898,navigation,,person,mid,right,1.0,obstacle_closer,"person right, about 1.0 meters."
+1769841433.2645898,navigation,,,,,,vlm_caption,Scene summary: a man holding a card with a picture of him
+1769841445.1967046,navigation,,,,,,ocr,AMRITA VISHWA VIDYAPEETHAM C Mmiteora Kunal Debnaih CB SC PZAIE25087 7025-7027 Una MW 7027 HOS
+1769841464.965674,navigation,,person,near,ahead,0.5,obstacle_near,"person ahead, very close."
+1769841464.965674,navigation,,,,,,ocr,ocr_none
+1769841464.965674,navigation,,,,,,vlm_caption,Scene summary: a man sitting at a table with a laptop
+1769841476.2720692,navigation,,,,,,ocr,ocr_none
+1770590815.4245777,navigation,,person,near,ahead,0.5,first_obstacle,"person ahead, within one meter."
+1770590824.082382,navigation,,,,,,ocr,ocr_none
+1770590829.0424151,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt standing in a room
+1770590836.3526964,navigation,,,,,,ocr,ocr_none
+1770590844.0687823,navigation,,,,,,vlm_caption,Scene summary: a man with no shirt sitting on a bed
+1770590850.678599,navigation,,,,,,ocr,ocr_none
+1770590859.1297746,navigation,,,,,,vlm_caption,Scene summary: a man sitting on a bed in a room
+1770590865.457569,navigation,,,,,,ocr,ocr_none
