@@ -149,6 +149,4 @@ Events are written to `logs.csv` with the following columns:
 
 ---
 
-## 📄 License
-
-This project is open source. See [LICENSE](LICENSE) for details.
+## 📄 Createdd by Kunal Debnath
