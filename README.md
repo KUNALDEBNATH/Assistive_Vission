@@ -149,4 +149,4 @@ Events are written to `logs.csv` with the following columns:
 
 ---
 
-## 📄 Createdd by Kunal Debnath
+## 📄 Created by Kunal Debnath
