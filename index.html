@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assistive Vision</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #111;
+            color: #eee;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #video-container {
+            margin-top: 20px;
+            border: 2px solid #444;
+        }
+        #status {
+            margin-top: 20px;
+            font-size: 1.2rem;
+            background: #222;
+            padding: 10px 15px;
+            border-radius: 8px;
+            min-width: 400px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Assistive Vision</h1>
+
+    <div id="video-container">
+        <img id="video" src="/video" alt="video stream" />
+    </div>
+
+    <div id="status">Waiting for message...</div>
+
+    <script>
+        async function pollStatus() {
+            try {
+                const res = await fetch("/status");
+                const data = await res.json();
+                const msg = data.message || "";
+                document.getElementById("status").textContent = msg || "No message.";
+            } catch (e) {
+                console.error(e);
+            } finally {
+                setTimeout(pollStatus, 500); // 2 Hz
+            }
+        }
+
+        pollStatus();
+    </script>
+</body>
+</html>
